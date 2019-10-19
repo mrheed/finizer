@@ -27,7 +27,7 @@ cd $GOPATH/src/github.com/syahidnurrohim/finizer && go build
 ```
 Execute the file
 ```
-./finizer
+./finizer --copy --begin test
 ```
 ## Authors
 **Syahid Nurrohim**
