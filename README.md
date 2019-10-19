@@ -14,6 +14,7 @@ Helper contents, contains explanation of each argument
 	--pathToFormat,         the directory where the custom format spotted ---JSON FILE REQUIRED-- (string)
 ### Prerequisites
 You have to install go(golang) into your machine, 
+
 You could download and follow the installation instructions here : https://golang.org/dl/
 ### Installing
 Download this repo using go get
