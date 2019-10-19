@@ -1,0 +1,4 @@
+[
+	{"format": "go", "folder": "Golang"},
+	{"format": "tar.gz", "folder": "TarGZ", "permit_size_overflow": true, "bigger_size_folder": "BigTarGZ", "max_file_size": 1000}
+]
