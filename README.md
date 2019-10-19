@@ -20,7 +20,7 @@ go get github.com/syahidnurrohim/finizer
 ```
 And then go to the package directory to build the tool
 ```
-go build
+cd $GOPATH/src/github.com/syahidnurrohim/finizer && go build
 ```
 Execute the file
 ```
