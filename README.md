@@ -15,16 +15,16 @@ You have to install go(golang) into your machine,
 You could download and follow the installation instructions here : https://golang.org/dl/
 ### Installing
 Download this repo using go get
-``
+```
 go get github.com/syahidnurrohim/finizer
-``
+```
 And then go to the package directory to build the tool
-``
+```
 go build
-``
+```
 Execute the file
-``
+```
 ./finizer
-``
+```
 ## Authors
-Syahid Nurrohim
+**Syahid Nurrohim**
