@@ -25,8 +25,9 @@ And then go to the package directory to build the tool
 ```
 cd $GOPATH/src/github.com/syahidnurrohim/finizer && go build
 ```
-Execute the file
+Download missing package and Execute the file
 ```
+go get
 ./finizer --copy --begin test
 ```
 ## Authors
