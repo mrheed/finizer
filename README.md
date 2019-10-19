@@ -3,6 +3,7 @@ File Organizer Tool based on CLI
 Supported OS (Linux, Darwin, Free-BSD)
 ## Getting Started
 Helper contents, contains explanation of each argument
+
 	--begin,                directory investigate starting point (string)
 	--copy,                 you may use this argument if you wont to move the file from the previous path (boolean)
 	--help,                 this argument for detailed description each argument (boolean)
