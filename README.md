@@ -1,5 +1,6 @@
 # Finizer
 File Organizer Tool based on CLI
+
 Supported OS (Linux, Darwin, Free-BSD)
 ## Getting Started
 Helper contents, contains explanation of each argument
