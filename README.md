@@ -21,14 +21,13 @@ Download this repo using go get
 ```
 go get github.com/syahidnurrohim/finizer
 ```
-And then go to the package directory to build the tool
+Then go to the package directory and install required package using go get
 ```
-cd $GOPATH/src/github.com/syahidnurrohim/finizer && go build
+cd $GOPATH/src/github.com/syahidnurrohim/finizer && go get
 ```
-Download missing package and Execute the file
+Build and Execute the file
 ```
-go get
-./finizer --copy --begin test
+go build && ./finizer --copy --begin test
 ```
 ## Authors
 **Syahid Nurrohim**
